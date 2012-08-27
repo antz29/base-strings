@@ -1,0 +1,17 @@
+{
+    "name": "antz29/base-strings",
+    "description": "Simple string manipulation used by the Base PHP Framework.",
+    "keywords": ["strings", "base"],
+    "type": "library",
+    "homepage": "https://github.com/antz29/base-strings",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "John Le Drew",
+            "homepage": "http://antz29.com/"
+        }
+    ],
+    "require": {
+        "php" : ">=5.4.0"
+    }
+}
